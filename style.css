@@ -1,0 +1,45 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+header {
+    background-color: #1e2a38;
+    color: #fff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    color: #fff;
+    margin-left: 1em;
+    text-decoration: none;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+}
+.chamada {
+    text-align: center;
+    padding: 2em;
+}
+footer {
+    background: #1e2a38;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #25d366;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+}
